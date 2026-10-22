@@ -75,7 +75,7 @@ def main():
 
     # 假设你的刺激图片在 stimuli 文件夹下，命名为 img1.jpg 到 img7.jpg
     # 如果你在 D:\projects\test 运行，确保有 D:\projects\test\stimuli\ 文件夹
-    stimuli_dir = "stimuli"
+    stimuli_dir = "Image"
 
     # 确保刺激图片文件夹存在
     if not os.path.exists(stimuli_dir):
